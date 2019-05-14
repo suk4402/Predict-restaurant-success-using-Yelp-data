@@ -1,1 +1,1 @@
-# capstone1
+# Predict restaurant success using Yelp data
