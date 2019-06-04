@@ -4,6 +4,6 @@ This is the repository for my project - Predict restaurant success using Yelp da
 
 In this repository, you will find the following folders and files:
 
-Jupyter Notebook
+1. Jupyter Notebook
 
-Accompanying Slide Deck
+2. Accompanying Slide Deck
